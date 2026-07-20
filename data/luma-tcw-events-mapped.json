@@ -1,0 +1,1066 @@
+[
+  {
+    "id": "1",
+    "date": "2026-07-20",
+    "start": 480,
+    "end": 1320,
+    "title": "PROMPT. AI Innovation Series",
+    "desc": "CineCity Studios Chicago \u00b7 Douglass Park",
+    "neighborhood": "Douglass Park",
+    "category": "ai",
+    "priority": "high",
+    "flags": [
+      "anchor"
+    ],
+    "luma": "5v7dnv8w",
+    "verified": true
+  },
+  {
+    "id": "2",
+    "date": "2026-07-20",
+    "start": 510,
+    "end": 630,
+    "title": "From Me to We: Women Founders and Operators Community Coffee",
+    "desc": "Official TechChicago calendar \u00b7 8:30\u201310:30am (registration location).",
+    "neighborhood": "Provided upon registration",
+    "category": "women",
+    "priority": "high",
+    "flags": [],
+    "luma": null,
+    "verified": false,
+    "source": "official"
+  },
+  {
+    "id": "3",
+    "date": "2026-07-20",
+    "start": 540,
+    "end": 1080,
+    "title": "TCW2026: Basecamp @ TechNexus",
+    "desc": "TeamWorking by TechNexus \u00b7 Chicago Loop",
+    "neighborhood": "Chicago Loop",
+    "category": "networking",
+    "priority": "high",
+    "flags": [
+      "waitlist",
+      "anchor"
+    ],
+    "luma": "00tj0fik",
+    "verified": true
+  },
+  {
+    "id": "4",
+    "date": "2026-07-20",
+    "start": 660,
+    "end": 1080,
+    "title": "UChicago Deep Tech Demo Day",
+    "desc": "Gleacher Conference Center \u00b7 Streeterville",
+    "neighborhood": "Streeterville",
+    "category": "deeptech",
+    "priority": "high",
+    "flags": [
+      "waitlist",
+      "anchor"
+    ],
+    "luma": "polsky-07-20-2026-event-1686",
+    "verified": true
+  },
+  {
+    "id": "5",
+    "date": "2026-07-20",
+    "start": 810,
+    "end": 930,
+    "title": "Climate in Focus: Conservation through the Lens of Creatives",
+    "desc": "Leica Store and Gallery Chicago \u00b7 Near North Side",
+    "neighborhood": "Near North Side",
+    "category": "climate",
+    "priority": "high",
+    "flags": [
+      "waitlist"
+    ],
+    "luma": "v2np2ue4",
+    "verified": true
+  },
+  {
+    "id": "6",
+    "date": "2026-07-20",
+    "start": 840,
+    "end": 900,
+    "title": "Why Compostable Packaging Still Ends Up in Landfills, And How We Fix It",
+    "desc": "2010 W Fulton St \u00b7 Near West Side",
+    "neighborhood": "Near West Side",
+    "category": "climate",
+    "priority": "high",
+    "flags": [
+      "waitlist"
+    ],
+    "luma": "l1moh2o2",
+    "verified": true
+  },
+  {
+    "id": "7",
+    "date": "2026-07-20",
+    "start": 1110,
+    "end": 1290,
+    "title": "A Seat at the Cap Table: We Don't Wait for Invitations",
+    "desc": "Three Cities Social Club - River North \u00b7 River North",
+    "neighborhood": "River North",
+    "category": "founder",
+    "priority": "high",
+    "flags": [
+      "waitlist"
+    ],
+    "luma": "wlci6n0y",
+    "verified": true
+  },
+  {
+    "id": "8",
+    "date": "2026-07-20",
+    "start": 1110,
+    "end": 1200,
+    "title": "Youth Voices: Busting Climate Myths in the Digital Age",
+    "desc": "Naperville Public Library - Nichols Library \u00b7 Downtown",
+    "neighborhood": "Downtown",
+    "category": "climate",
+    "priority": "medium",
+    "flags": [],
+    "luma": "qz6cegc2",
+    "verified": true
+  },
+  {
+    "id": "9",
+    "date": "2026-07-21",
+    "start": 510,
+    "end": 690,
+    "title": "Bagel Entrepreneurs @ TechChicago Week",
+    "desc": "Listed on Luma Chicago Tech Collaborative calendar.",
+    "neighborhood": "River North",
+    "category": "founder",
+    "priority": "high",
+    "flags": [
+      "waitlist"
+    ],
+    "luma": "g77hyv4c",
+    "verified": true
+  },
+  {
+    "id": "10",
+    "date": "2026-07-21",
+    "start": 540,
+    "end": 1020,
+    "title": "AWS Startups - GenAI Executive Briefing Day in Chicago, IL",
+    "desc": "Listed on Luma Chicago Tech Collaborative calendar.",
+    "neighborhood": "Fulton Market District",
+    "category": "ai",
+    "priority": "medium",
+    "flags": [],
+    "luma": "ou2zr549",
+    "verified": true
+  },
+  {
+    "id": "11",
+    "date": "2026-07-21",
+    "start": 540,
+    "end": 660,
+    "title": "Chicago's Second Fashion Tech Meetup",
+    "desc": "2031 W Fulton St \u00b7 Chicago, Illinois",
+    "neighborhood": "Chicago, Illinois",
+    "category": "ai",
+    "priority": "high",
+    "flags": [
+      "waitlist"
+    ],
+    "luma": "2vejmic9",
+    "verified": true
+  },
+  {
+    "id": "12",
+    "date": "2026-07-21",
+    "start": 540,
+    "end": 600,
+    "title": "Solving Grand Challenges TechWalk | Chicago, 7/21",
+    "desc": "Listed on Luma Chicago Tech Collaborative calendar.",
+    "neighborhood": "New Eastside",
+    "category": "networking",
+    "priority": "medium",
+    "flags": [],
+    "luma": "71ieg50p",
+    "verified": true
+  },
+  {
+    "id": "13",
+    "date": "2026-07-21",
+    "start": 660,
+    "end": 780,
+    "title": "Midwest Fintech Networking Lunch During TechChicago Week",
+    "desc": "Listed on Luma Chicago Tech Collaborative calendar.",
+    "neighborhood": "Chicago Loop",
+    "category": "fintech",
+    "priority": "high",
+    "flags": [
+      "waitlist"
+    ],
+    "luma": "5gpm3lt3",
+    "verified": true
+  },
+  {
+    "id": "14",
+    "date": "2026-07-21",
+    "start": 840,
+    "end": 1080,
+    "title": "Founder Fest (During TechChicago)",
+    "desc": "Listed on Luma Chicago Tech Collaborative calendar.",
+    "neighborhood": "Wicker Park",
+    "category": "founder",
+    "priority": "high",
+    "flags": [],
+    "luma": "founder-fest-chicago",
+    "verified": true
+  },
+  {
+    "id": "15",
+    "date": "2026-07-21",
+    "start": 900,
+    "end": 1200,
+    "title": "RichieBot | Art Exhibit & Documentary Film Experience",
+    "desc": "Vault Gallerie \u00b7 Pilsen",
+    "neighborhood": "Pilsen",
+    "category": "networking",
+    "priority": "high",
+    "flags": [
+      "waitlist"
+    ],
+    "luma": "0o9262vi",
+    "verified": true
+  },
+  {
+    "id": "16",
+    "date": "2026-07-21",
+    "start": 960,
+    "end": 1260,
+    "title": "Eco.Logic Ice Cream Social",
+    "desc": "Bartlebys Homemade Ice Cream \u00b7 North Center",
+    "neighborhood": "North Center",
+    "category": "climate",
+    "priority": "medium",
+    "flags": [],
+    "luma": "719lyuac",
+    "verified": true
+  },
+  {
+    "id": "17",
+    "date": "2026-07-21",
+    "start": 1020,
+    "end": 1200,
+    "title": "2026 Chicago CISO of the Year - July Mixer",
+    "desc": "Harry Caray's Italian Steakhouse \u00b7 Near North",
+    "neighborhood": "Near North",
+    "category": "other",
+    "priority": "high",
+    "flags": [
+      "waitlist"
+    ],
+    "luma": "tdoaww56",
+    "verified": true
+  },
+  {
+    "id": "18",
+    "date": "2026-07-21",
+    "start": 1020,
+    "end": 1320,
+    "title": "Seed2Table \u2013 Pitch+Dinner for Deep Tech & AI Investors",
+    "desc": "The Metropolitan \u00b7 Chicago Loop",
+    "neighborhood": "Chicago Loop",
+    "category": "ai",
+    "priority": "medium",
+    "flags": [],
+    "luma": "48ymie9f",
+    "verified": true
+  },
+  {
+    "id": "19",
+    "date": "2026-07-21",
+    "start": 1020,
+    "end": 1140,
+    "title": "Women Who Lead @ Chicago Tech Week",
+    "desc": "Listed on Luma Chicago Tech Collaborative calendar.",
+    "neighborhood": "West Loop Gate",
+    "category": "women",
+    "priority": "high",
+    "flags": [
+      "waitlist"
+    ],
+    "luma": "vy9r24a4",
+    "verified": true
+  },
+  {
+    "id": "20",
+    "date": "2026-07-21",
+    "start": 1050,
+    "end": 1230,
+    "title": "Health2Tech Chicago July 21, 2026",
+    "desc": "Listed on Luma Chicago Tech Collaborative calendar.",
+    "neighborhood": "Fulton Market District",
+    "category": "health",
+    "priority": "high",
+    "flags": [
+      "waitlist"
+    ],
+    "luma": "zbe7g6nt",
+    "verified": true
+  },
+  {
+    "id": "21",
+    "date": "2026-07-21",
+    "start": 1050,
+    "end": 1200,
+    "title": "Pitch Night at Cameo: The Next Wave of Sports Startups",
+    "desc": "320 N Elizabeth St \u00b7 Fulton Market District",
+    "neighborhood": "Fulton Market District",
+    "category": "sports",
+    "priority": "medium",
+    "flags": [],
+    "luma": "3ur4hecz",
+    "verified": true
+  },
+  {
+    "id": "22",
+    "date": "2026-07-21",
+    "start": 1050,
+    "end": 1170,
+    "title": "Quantum Roundtable: What's Your Business 'Qase'?",
+    "desc": "Listed on Luma Chicago Tech Collaborative calendar.",
+    "neighborhood": "Chicago Loop",
+    "category": "quantum",
+    "priority": "high",
+    "flags": [
+      "waitlist"
+    ],
+    "luma": "b19tbdm7",
+    "verified": true
+  },
+  {
+    "id": "23",
+    "date": "2026-07-21",
+    "start": 1050,
+    "end": 1170,
+    "title": "TechWeek Chicago: 1871's TechPalooza",
+    "desc": "ReloShare \u00b7 Fulton Market District",
+    "neighborhood": "Fulton Market District",
+    "category": "networking",
+    "priority": "high",
+    "flags": [
+      "waitlist",
+      "anchor"
+    ],
+    "luma": "wdvb76av",
+    "verified": true
+  },
+  {
+    "id": "24",
+    "date": "2026-07-21",
+    "start": 1080,
+    "end": 1200,
+    "title": "Founders & Funders: CHI VC Reverse Pitch",
+    "desc": "Listed on Luma Chicago Tech Collaborative calendar.",
+    "neighborhood": "Near West Side",
+    "category": "founder",
+    "priority": "high",
+    "flags": [
+      "waitlist"
+    ],
+    "luma": "fnfxchi0726",
+    "verified": true
+  },
+  {
+    "id": "25",
+    "date": "2026-07-22",
+    "start": 540,
+    "end": 600,
+    "title": "1 Million Cups Chicago (Tech Week Edition)",
+    "desc": "TeamWorking by TechNexus \u00b7 Chicago Loop",
+    "neighborhood": "Chicago Loop",
+    "category": "founder",
+    "priority": "medium",
+    "flags": [],
+    "luma": "ac1b8c4s",
+    "verified": true
+  },
+  {
+    "id": "26",
+    "date": "2026-07-22",
+    "start": 540,
+    "end": 1080,
+    "title": "Global Quantum Forum (Day 1)",
+    "desc": "Official TechChicago anchor \u00b7 Jul 22\u201323 \u00b7 invite \u00b7 P33 & Illinois EDC.",
+    "neighborhood": "Chicago",
+    "category": "quantum",
+    "priority": "high",
+    "flags": [
+      "anchor",
+      "invite-only"
+    ],
+    "luma": null,
+    "verified": false,
+    "source": "official"
+  },
+  {
+    "id": "27",
+    "date": "2026-07-22",
+    "start": 660,
+    "end": 780,
+    "title": "TECHicago: Building for Good",
+    "desc": "Fabrik Chicago \u00b7 River North",
+    "neighborhood": "River North",
+    "category": "networking",
+    "priority": "high",
+    "flags": [
+      "waitlist"
+    ],
+    "luma": "vvhgzewy",
+    "verified": true
+  },
+  {
+    "id": "28",
+    "date": "2026-07-22",
+    "start": 780,
+    "end": 1080,
+    "title": "Chicago Builds: Future of Money",
+    "desc": "Listed on Luma Chicago Tech Collaborative calendar.",
+    "neighborhood": "Fulton Market District",
+    "category": "fintech",
+    "priority": "high",
+    "flags": [
+      "waitlist"
+    ],
+    "luma": "48bcksp6",
+    "verified": true
+  },
+  {
+    "id": "29",
+    "date": "2026-07-22",
+    "start": 840,
+    "end": 900,
+    "title": "Bleeding The Planet: Period Waste & Sustainable Innovation",
+    "desc": "West Loop Branch, Chicago Public Library \u00b7 West Loop",
+    "neighborhood": "West Loop",
+    "category": "climate",
+    "priority": "medium",
+    "flags": [],
+    "luma": "vab52t5m",
+    "verified": true
+  },
+  {
+    "id": "30",
+    "date": "2026-07-22",
+    "start": 870,
+    "end": 1170,
+    "title": "TCW2026: Let\u2019s Make A Movie The Future of AI In Media \ud83e\udd16+\ud83c\udfa5",
+    "desc": "TeamWorking by TechNexus \u00b7 Chicago Loop",
+    "neighborhood": "Chicago Loop",
+    "category": "ai",
+    "priority": "medium",
+    "flags": [],
+    "luma": "z2i2qp74",
+    "verified": true
+  },
+  {
+    "id": "31",
+    "date": "2026-07-22",
+    "start": 930,
+    "end": 1050,
+    "title": "Partnerships Powering the Future of Healthcare AI",
+    "desc": "MATTER \u00b7 River North",
+    "neighborhood": "River North",
+    "category": "ai",
+    "priority": "high",
+    "flags": [
+      "waitlist"
+    ],
+    "luma": "b9a7bqgw",
+    "verified": true
+  },
+  {
+    "id": "32",
+    "date": "2026-07-22",
+    "start": 960,
+    "end": 1080,
+    "title": "From Corporate to Fintech: Five Founders Share Their Stories",
+    "desc": "Listed on Luma Chicago Tech Collaborative calendar.",
+    "neighborhood": "Streeterville",
+    "category": "fintech",
+    "priority": "medium",
+    "flags": [],
+    "luma": "h9wwy8fy",
+    "verified": true
+  },
+  {
+    "id": "33",
+    "date": "2026-07-22",
+    "start": 960,
+    "end": 1080,
+    "title": "Getting to Zero Emissions with Run On Climate (Hybrid Event)",
+    "desc": "Windfree Solar Cafe \u00b7 Evanston, IL",
+    "neighborhood": "Evanston, IL",
+    "category": "climate",
+    "priority": "medium",
+    "flags": [],
+    "luma": "321hr681",
+    "verified": true
+  },
+  {
+    "id": "34",
+    "date": "2026-07-22",
+    "start": 1020,
+    "end": 1140,
+    "title": "Climate Solutions Are Affordability Solutions: An Illinois Case Study",
+    "desc": "Impact House \u00b7 Chicago Loop",
+    "neighborhood": "Chicago Loop",
+    "category": "climate",
+    "priority": "medium",
+    "flags": [],
+    "luma": "mcni7220",
+    "verified": true
+  },
+  {
+    "id": "35",
+    "date": "2026-07-22",
+    "start": 1020,
+    "end": 1140,
+    "title": "VIP Web3 Investor Day Reception 2026",
+    "desc": "Listed on Luma Chicago Tech Collaborative calendar.",
+    "neighborhood": "Chicago Loop",
+    "category": "founder",
+    "priority": "medium",
+    "flags": [],
+    "luma": "hgcu6iig",
+    "verified": true
+  },
+  {
+    "id": "36",
+    "date": "2026-07-22",
+    "start": 1050,
+    "end": 1200,
+    "title": "2026 TechChicago Week x Pixels & Prosecco: Women in Tech Mixer 1 Year Anniversary",
+    "desc": "TeamWorking by TechNexus \u00b7 Chicago Loop",
+    "neighborhood": "Chicago Loop",
+    "category": "women",
+    "priority": "high",
+    "flags": [
+      "waitlist"
+    ],
+    "luma": "3cy28qcq",
+    "verified": true
+  },
+  {
+    "id": "37",
+    "date": "2026-07-22",
+    "start": 1050,
+    "end": 1170,
+    "title": "AI, Search & Scale: Elastic x HyperFlex @ Chicago Tech Week",
+    "desc": "54 W Chicago Ave \u00b7 Rush & Division",
+    "neighborhood": "Rush & Division",
+    "category": "ai",
+    "priority": "medium",
+    "flags": [],
+    "luma": "you-6t43",
+    "verified": true
+  },
+  {
+    "id": "38",
+    "date": "2026-07-22",
+    "start": 1080,
+    "end": 1230,
+    "title": "26Q3 Chicago Executive Dinner: Affordability & Grid Optimization",
+    "desc": "Sunda New Asian - River North \u00b7 River North",
+    "neighborhood": "River North",
+    "category": "networking",
+    "priority": "medium",
+    "flags": [],
+    "luma": "chi26q3-dinner",
+    "verified": true
+  },
+  {
+    "id": "39",
+    "date": "2026-07-22",
+    "start": 1080,
+    "end": 1260,
+    "title": "AI Tech & Startup Night - Chicago",
+    "desc": "Weather Mark Tavern \u00b7 South Loop",
+    "neighborhood": "South Loop",
+    "category": "ai",
+    "priority": "medium",
+    "flags": [],
+    "luma": "vzwjygyc",
+    "verified": true
+  },
+  {
+    "id": "40",
+    "date": "2026-07-22",
+    "start": 1080,
+    "end": 1260,
+    "title": "Startup Founders | Chicago",
+    "desc": "Midwest Coast Brewing Company \u00b7 Near West Side",
+    "neighborhood": "Near West Side",
+    "category": "founder",
+    "priority": "high",
+    "flags": [
+      "waitlist"
+    ],
+    "luma": "crhdlrvb",
+    "verified": true
+  },
+  {
+    "id": "41",
+    "date": "2026-07-22",
+    "start": 1080,
+    "end": 1260,
+    "title": "VC Networking & Tech Pitch | Chicago",
+    "desc": "Midwest Coast Brewing Company \u00b7 Near West Side",
+    "neighborhood": "Near West Side",
+    "category": "founder",
+    "priority": "high",
+    "flags": [
+      "waitlist"
+    ],
+    "luma": "umdzdpw1",
+    "verified": true
+  },
+  {
+    "id": "42",
+    "date": "2026-07-22",
+    "start": 1080,
+    "end": 1260,
+    "title": "VC Networking: Pitch Day \u2014 Chicago",
+    "desc": "Weather Mark Tavern \u00b7 South Loop",
+    "neighborhood": "South Loop",
+    "category": "founder",
+    "priority": "medium",
+    "flags": [],
+    "luma": "3x0ixtrl",
+    "verified": true
+  },
+  {
+    "id": "43",
+    "date": "2026-07-22",
+    "start": 1110,
+    "end": 1290,
+    "title": "\u2728 Chicago Supper Club \u2728",
+    "desc": "Listed on Luma Chicago Tech Collaborative calendar.",
+    "neighborhood": "West Loop",
+    "category": "networking",
+    "priority": "high",
+    "flags": [
+      "waitlist"
+    ],
+    "luma": "chicagopeopleleadersdinner-ihateithere",
+    "verified": true
+  },
+  {
+    "id": "44",
+    "date": "2026-07-23",
+    "start": 510,
+    "end": 780,
+    "title": "Chicago Climate Week's Career Development Day",
+    "desc": "Morningstar \u00b7 Chicago Loop",
+    "neighborhood": "Chicago Loop",
+    "category": "climate",
+    "priority": "high",
+    "flags": [
+      "waitlist"
+    ],
+    "luma": "le8ovmpu",
+    "verified": true
+  },
+  {
+    "id": "45",
+    "date": "2026-07-23",
+    "start": 540,
+    "end": 1080,
+    "title": "Global Quantum Forum (Day 2)",
+    "desc": "Official TechChicago anchor \u00b7 Jul 22\u201323 \u00b7 invite \u00b7 P33 & Illinois EDC.",
+    "neighborhood": "Chicago",
+    "category": "quantum",
+    "priority": "high",
+    "flags": [
+      "anchor",
+      "invite-only"
+    ],
+    "luma": null,
+    "verified": false,
+    "source": "official"
+  },
+  {
+    "id": "46",
+    "date": "2026-07-23",
+    "start": 570,
+    "end": 690,
+    "title": "Founder Lessons: Building, Backing, and Growing",
+    "desc": "Fabrik Chicago \u00b7 River North",
+    "neighborhood": "River North",
+    "category": "founder",
+    "priority": "high",
+    "flags": [
+      "waitlist"
+    ],
+    "luma": "3wwj7j2h",
+    "verified": true
+  },
+  {
+    "id": "47",
+    "date": "2026-07-23",
+    "start": 600,
+    "end": 720,
+    "title": "Tech Enablement Series: Using AI to Optimize How your Business Runs",
+    "desc": "Polsky Exchange North \u00b7 Hyde Park",
+    "neighborhood": "Hyde Park",
+    "category": "ai",
+    "priority": "medium",
+    "flags": [],
+    "luma": "polsky-07-23-2026-event-1737",
+    "verified": true
+  },
+  {
+    "id": "48",
+    "date": "2026-07-23",
+    "start": 690,
+    "end": 990,
+    "title": "AEG Chicago 26Q3 Stakeholder Challenge: Affordability & Grid Optimization",
+    "desc": "Burns & McDonnell \u00b7 Chicago Loop",
+    "neighborhood": "Chicago Loop",
+    "category": "networking",
+    "priority": "medium",
+    "flags": [],
+    "luma": "chi26q3",
+    "verified": true
+  },
+  {
+    "id": "49",
+    "date": "2026-07-23",
+    "start": 750,
+    "end": 1170,
+    "title": "Co_Invest Climate 2026",
+    "desc": "Blackhawks Ice Center Presented by Fifth Third Bank \u00b7 Near West Side",
+    "neighborhood": "Near West Side",
+    "category": "climate",
+    "priority": "high",
+    "flags": [
+      "anchor"
+    ],
+    "luma": "Co_InvestClimate26",
+    "verified": true
+  },
+  {
+    "id": "50",
+    "date": "2026-07-23",
+    "start": 840,
+    "end": 1080,
+    "title": "Passport to Founders",
+    "desc": "Fabrik Chicago \u00b7 River North",
+    "neighborhood": "River North",
+    "category": "sports",
+    "priority": "medium",
+    "flags": [],
+    "luma": "e1d75gnn",
+    "verified": true
+  },
+  {
+    "id": "51",
+    "date": "2026-07-23",
+    "start": 840,
+    "end": 1080,
+    "title": "WMNfintech: Chicago Showcase",
+    "desc": "Listed on Luma Chicago Tech Collaborative calendar.",
+    "neighborhood": "West Loop Gate",
+    "category": "fintech",
+    "priority": "high",
+    "flags": [],
+    "luma": "3i1kqqac",
+    "verified": true
+  },
+  {
+    "id": "52",
+    "date": "2026-07-23",
+    "start": 850,
+    "end": 920,
+    "title": "Powering Partnerships: Clean Energy Roundtables",
+    "desc": "Listed on Luma Chicago Tech Collaborative calendar.",
+    "neighborhood": "West Loop Gate",
+    "category": "climate",
+    "priority": "medium",
+    "flags": [],
+    "luma": "49h6ycn6",
+    "verified": true
+  },
+  {
+    "id": "53",
+    "date": "2026-07-23",
+    "start": 900,
+    "end": 1020,
+    "title": "The 16th CTO Colloquium, Chicago",
+    "desc": "Listed on Luma Chicago Tech Collaborative calendar.",
+    "neighborhood": "Chicago Loop",
+    "category": "networking",
+    "priority": "medium",
+    "flags": [],
+    "luma": "The16thCTOColloquiumChicago",
+    "verified": true
+  },
+  {
+    "id": "54",
+    "date": "2026-07-23",
+    "start": 900,
+    "end": 1260,
+    "title": "The AI Workforce Shift: How AI Will Change Employment",
+    "desc": "70 W Madison St \u00b7 Chicago Loop",
+    "neighborhood": "Chicago Loop",
+    "category": "ai",
+    "priority": "medium",
+    "flags": [],
+    "luma": "vwpk2xq3",
+    "verified": true
+  },
+  {
+    "id": "55",
+    "date": "2026-07-23",
+    "start": 1020,
+    "end": 1140,
+    "title": "The Voucher Networking Mixer",
+    "desc": "Listed on Luma Chicago Tech Collaborative calendar.",
+    "neighborhood": "Chicago Loop",
+    "category": "networking",
+    "priority": "high",
+    "flags": [
+      "waitlist"
+    ],
+    "luma": "268wtsd0",
+    "verified": true
+  },
+  {
+    "id": "56",
+    "date": "2026-07-23",
+    "start": 1050,
+    "end": 1140,
+    "title": "Best Buy Teen Tech Center Grand Opening",
+    "desc": "Official TechChicago anchor \u00b7 5:30\u20137:00pm \u00b7 invite-only \u00b7 South Side youth tech hub.",
+    "neighborhood": "South Side",
+    "category": "other",
+    "priority": "low",
+    "flags": [
+      "invite-only"
+    ],
+    "luma": null,
+    "verified": false,
+    "source": "official"
+  },
+  {
+    "id": "57",
+    "date": "2026-07-23",
+    "start": 1050,
+    "end": 1230,
+    "title": "Chicago AI, ML, and Computer Vision Meetup",
+    "desc": "10 S Riverside Plaza suite 800 \u00b7 West Loop",
+    "neighborhood": "West Loop",
+    "category": "ai",
+    "priority": "medium",
+    "flags": [],
+    "luma": "voxel51-4f3g",
+    "verified": true
+  },
+  {
+    "id": "58",
+    "date": "2026-07-23",
+    "start": 1050,
+    "end": 1230,
+    "title": "Eco.Logic Social",
+    "desc": "Pilot Project Brewing - Logan Square \u00b7 Logan Square",
+    "neighborhood": "Logan Square",
+    "category": "climate",
+    "priority": "medium",
+    "flags": [],
+    "luma": "70sucj8x",
+    "verified": true
+  },
+  {
+    "id": "59",
+    "date": "2026-07-23",
+    "start": 1080,
+    "end": 1200,
+    "title": "Fundraising for The Rest of Us: How to Build Your Pitch, Navigate Bias, and Raise Capital on Your Terms",
+    "desc": "Three Cities Social Club - River North \u00b7 River North",
+    "neighborhood": "River North",
+    "category": "founder",
+    "priority": "high",
+    "flags": [
+      "waitlist"
+    ],
+    "luma": "qwvogdy9",
+    "verified": true
+  },
+  {
+    "id": "60",
+    "date": "2026-07-23",
+    "start": 1080,
+    "end": 1320,
+    "title": "Milna Launch Party @ TeamWorking by TechNexus",
+    "desc": "TeamWorking by TechNexus \u00b7 Chicago Loop",
+    "neighborhood": "Chicago Loop",
+    "category": "networking",
+    "priority": "high",
+    "flags": [
+      "waitlist"
+    ],
+    "luma": "q3ead560",
+    "verified": true
+  },
+  {
+    "id": "61",
+    "date": "2026-07-23",
+    "start": 1080,
+    "end": 1260,
+    "title": "Security Leaders Dinner by Aikido I Chicago",
+    "desc": "Momotaro \u00b7 Fulton Market District",
+    "neighborhood": "Fulton Market District",
+    "category": "other",
+    "priority": "high",
+    "flags": [
+      "waitlist"
+    ],
+    "luma": "securingtomorrow-chicago",
+    "verified": true
+  },
+  {
+    "id": "62",
+    "date": "2026-07-23",
+    "start": 1080,
+    "end": 1200,
+    "title": "Summer Sparks - AI, Customer Success and Revenue Lightning Talks",
+    "desc": "Workbox Chicago - River North \u00b7 River North",
+    "neighborhood": "River North",
+    "category": "ai",
+    "priority": "medium",
+    "flags": [],
+    "luma": "l05itl91",
+    "verified": true
+  },
+  {
+    "id": "63",
+    "date": "2026-07-23",
+    "start": 1080,
+    "end": 1260,
+    "title": "The Next Horizon: A Summer Soir\u00e9e for Tech & Marketing Leaders",
+    "desc": "Hoste \u00b7 Heart of Chicago",
+    "neighborhood": "Heart of Chicago",
+    "category": "networking",
+    "priority": "medium",
+    "flags": [],
+    "luma": "wrts6agi",
+    "verified": true
+  },
+  {
+    "id": "64",
+    "date": "2026-07-24",
+    "start": 540,
+    "end": 600,
+    "title": "Solving Grand Challenges TechWalk | Chicago, 7/24",
+    "desc": "Listed on Luma Chicago Tech Collaborative calendar.",
+    "neighborhood": "Chicago, IL",
+    "category": "networking",
+    "priority": "medium",
+    "flags": [],
+    "luma": "hyofk2s5",
+    "verified": true
+  },
+  {
+    "id": "65",
+    "date": "2026-07-24",
+    "start": 660,
+    "end": 780,
+    "title": "Building Resilient Communities Brunch Hosted by Verizon, World Business Chicago, and P33",
+    "desc": "Listed on Luma Chicago Tech Collaborative calendar.",
+    "neighborhood": "Near West Side",
+    "category": "climate",
+    "priority": "high",
+    "flags": [
+      "waitlist"
+    ],
+    "luma": "0uaoipd4",
+    "verified": true
+  },
+  {
+    "id": "66",
+    "date": "2026-07-24",
+    "start": 900,
+    "end": 1080,
+    "title": "Fastest Draw in the 312: Outpacing the Tech Frontier",
+    "desc": "Listed on Luma Chicago Tech Collaborative calendar.",
+    "neighborhood": "Fulton Market District",
+    "category": "networking",
+    "priority": "high",
+    "flags": [
+      "waitlist"
+    ],
+    "luma": "2o7ethm3",
+    "verified": true
+  },
+  {
+    "id": "67",
+    "date": "2026-07-24",
+    "start": 1020,
+    "end": 1170,
+    "title": "Tech Week: Founders and Funders for Sustainable Technology",
+    "desc": "Polsky Exchange North \u00b7 Hyde Park",
+    "neighborhood": "Hyde Park",
+    "category": "ai",
+    "priority": "high",
+    "flags": [
+      "waitlist"
+    ],
+    "luma": "wxgxbsko",
+    "verified": true
+  },
+  {
+    "id": "68",
+    "date": "2026-07-25",
+    "start": 600,
+    "end": 780,
+    "title": "Earth & Essence",
+    "desc": "CC Fulton Market \u00b7 Fulton Market District",
+    "neighborhood": "Fulton Market District",
+    "category": "climate",
+    "priority": "medium",
+    "flags": [],
+    "luma": "rzjegin7",
+    "verified": true
+  },
+  {
+    "id": "69",
+    "date": "2026-07-25",
+    "start": 600,
+    "end": 840,
+    "title": "Quarterlies Leaders Brunch",
+    "desc": "Official TechChicago anchor \u00b7 10:00am\u20132:00pm \u00b7 invite-only leadership brunch.",
+    "neighborhood": "Provided upon registration",
+    "category": "networking",
+    "priority": "medium",
+    "flags": [
+      "invite-only"
+    ],
+    "luma": null,
+    "verified": false,
+    "source": "official"
+  },
+  {
+    "id": "70",
+    "date": "2026-07-25",
+    "start": 720,
+    "end": 1260,
+    "title": "The Marketplace of the Future & Chicago Climate Week Closing Celebration",
+    "desc": "mHUB \u00b7 Near West Side",
+    "neighborhood": "Near West Side",
+    "category": "climate",
+    "priority": "medium",
+    "flags": [],
+    "luma": "hkwr6pq5",
+    "verified": true
+  }
+]

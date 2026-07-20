@@ -1,0 +1,652 @@
+{
+  "00tj0fik": {
+    "venue": "TeamWorking by TechNexus",
+    "short_address": "20 N Wacker Dr 12th Floor, Chicago",
+    "full_address": "TeamWorking by TechNexus, 20 N Wacker Dr 12th Floor, Chicago, IL 60606, USA",
+    "hood": "Chicago Loop",
+    "lat": 41.8826202,
+    "lng": -87.6372731,
+    "mode": "shown",
+    "desc_note": ""
+  },
+  "0o9262vi": {
+    "venue": "Vault Gallerie",
+    "short_address": "2015 S Laflin St, Chicago",
+    "full_address": "Vault Gallerie, 2015 S Laflin St, Chicago, IL 60608, USA",
+    "hood": "Pilsen",
+    "lat": 41.8545667,
+    "lng": -87.6633787,
+    "mode": "shown",
+    "desc_note": ""
+  },
+  "0uaoipd4": {
+    "venue": "",
+    "short_address": "",
+    "full_address": "",
+    "hood": "Near West Side",
+    "lat": 41.88732183526496,
+    "lng": -87.68740416418093,
+    "mode": "obfuscated",
+    "desc_note": ""
+  },
+  "268wtsd0": {
+    "venue": "",
+    "short_address": "",
+    "full_address": "",
+    "hood": "Chicago Loop",
+    "lat": 41.88429035479052,
+    "lng": -87.6377316587882,
+    "mode": "obfuscated",
+    "desc_note": ""
+  },
+  "2o7ethm3": {
+    "venue": "",
+    "short_address": "",
+    "full_address": "",
+    "hood": "Fulton Market District",
+    "lat": 41.88737126907695,
+    "lng": -87.64811091734721,
+    "mode": "obfuscated",
+    "desc_note": ""
+  },
+  "2vejmic9": {
+    "venue": "2031 W Fulton St",
+    "short_address": "",
+    "full_address": "2031 W Fulton St, Chicago, IL 60612, USA",
+    "hood": "Chicago, Illinois",
+    "lat": 41.8865148,
+    "lng": -87.6782511,
+    "mode": "shown",
+    "desc_note": ""
+  },
+  "321hr681": {
+    "venue": "Windfree Solar Cafe",
+    "short_address": "517 Dempster St, Evanston",
+    "full_address": "Windfree Solar Cafe, 517 Dempster St, Evanston, IL 60201, USA",
+    "hood": "Evanston, IL",
+    "lat": 42.041339199999996,
+    "lng": -87.6798598,
+    "mode": "shown",
+    "desc_note": "Virtual attendance available as well (see description for Zoom details)"
+  },
+  "3cy28qcq": {
+    "venue": "TeamWorking by TechNexus",
+    "short_address": "20 N Wacker Dr 12th Floor, Chicago",
+    "full_address": "TeamWorking by TechNexus, 20 N Wacker Dr 12th Floor, Chicago, IL 60606, USA",
+    "hood": "Chicago Loop",
+    "lat": 41.8826202,
+    "lng": -87.6372731,
+    "mode": "shown",
+    "desc_note": ""
+  },
+  "3i1kqqac": {
+    "venue": "",
+    "short_address": "",
+    "full_address": "",
+    "hood": "West Loop Gate",
+    "lat": 41.879028697393146,
+    "lng": -87.63872714417718,
+    "mode": "obfuscated",
+    "desc_note": ""
+  },
+  "3ur4hecz": {
+    "venue": "320 N Elizabeth St",
+    "short_address": "320 N Elizabeth St, Chicago",
+    "full_address": "320 N Elizabeth St, Chicago, IL 60607, USA",
+    "hood": "Fulton Market District",
+    "lat": 41.8874719,
+    "lng": -87.6595125,
+    "mode": "shown",
+    "desc_note": ""
+  },
+  "3wwj7j2h": {
+    "venue": "Fabrik Chicago",
+    "short_address": "440 N Wells St Suite 630, Chicago",
+    "full_address": "Fabrik Chicago, 440 N Wells St Suite 630, Chicago, IL 60654, USA",
+    "hood": "River North",
+    "lat": 41.890204999999995,
+    "lng": -87.6344556,
+    "mode": "shown",
+    "desc_note": ""
+  },
+  "3x0ixtrl": {
+    "venue": "Weather Mark Tavern",
+    "short_address": "Weather Mark, 1503 S Michigan Ave, Chicago",
+    "full_address": "Weather Mark Tavern, 1503 S Michigan Ave, Chicago, IL 60605, USA",
+    "hood": "South Loop",
+    "lat": 41.8618972,
+    "lng": -87.623824,
+    "mode": "shown",
+    "desc_note": ""
+  },
+  "48bcksp6": {
+    "venue": "",
+    "short_address": "",
+    "full_address": "",
+    "hood": "Fulton Market District",
+    "lat": 41.88503031669276,
+    "lng": -87.65572434288414,
+    "mode": "obfuscated",
+    "desc_note": ""
+  },
+  "48ymie9f": {
+    "venue": "The Metropolitan",
+    "short_address": "Willis Tower, 233 S Wacker Dr 67th Floor, Chicago",
+    "full_address": "The Metropolitan, 233 S Wacker Dr 67th Floor, Chicago, IL 60606, USA",
+    "hood": "Chicago Loop",
+    "lat": 41.8787403,
+    "lng": -87.636268,
+    "mode": "shown",
+    "desc_note": "233 S. Wacker Dr. 67th Floor Chicago, IL 60606"
+  },
+  "49h6ycn6": {
+    "venue": "",
+    "short_address": "",
+    "full_address": "",
+    "hood": "West Loop Gate",
+    "lat": 41.88677963962399,
+    "lng": -87.63910026632793,
+    "mode": "obfuscated",
+    "desc_note": ""
+  },
+  "5gpm3lt3": {
+    "venue": "",
+    "short_address": "",
+    "full_address": "",
+    "hood": "Chicago Loop",
+    "lat": 41.88070205192986,
+    "lng": -87.63756715965786,
+    "mode": "obfuscated",
+    "desc_note": ""
+  },
+  "5v7dnv8w": {
+    "venue": "CineCity Studios Chicago",
+    "short_address": "2429 W 14th St, Chicago",
+    "full_address": "CineCity Studios Chicago, 2429 W 14th St, Chicago, IL 60608, USA",
+    "hood": "Douglass Park",
+    "lat": 41.8626371,
+    "lng": -87.68695199999999,
+    "mode": "shown",
+    "desc_note": ""
+  },
+  "70sucj8x": {
+    "venue": "Pilot Project Brewing - Logan Square",
+    "short_address": "2140 N Milwaukee Ave, Chicago",
+    "full_address": "Pilot Project Brewing - Logan Square, 2140 N Milwaukee Ave, Chicago, IL 60647, USA",
+    "hood": "Logan Square",
+    "lat": 41.919945999999996,
+    "lng": -87.692981,
+    "mode": "shown",
+    "desc_note": ""
+  },
+  "719lyuac": {
+    "venue": "Bartlebys Homemade Ice Cream",
+    "short_address": "1943 W Byron St, Chicago",
+    "full_address": "Bartlebys Homemade Ice Cream, 1943 W Byron St, Chicago, IL 60613, USA",
+    "hood": "North Center",
+    "lat": 41.952233899999996,
+    "lng": -87.6778878,
+    "mode": "shown",
+    "desc_note": ""
+  },
+  "71ieg50p": {
+    "venue": "",
+    "short_address": "",
+    "full_address": "",
+    "hood": "New Eastside",
+    "lat": 41.8888684525861,
+    "lng": -87.6261608485777,
+    "mode": "obfuscated",
+    "desc_note": ""
+  },
+  "Co_InvestClimate26": {
+    "venue": "Blackhawks Ice Center Presented by Fifth Third Bank",
+    "short_address": "1801 W Jackson Blvd, Chicago",
+    "full_address": "Blackhawks Ice Center Presented by Fifth Third Bank, 1801 W Jackson Blvd, Chicago, IL 60612, USA",
+    "hood": "Near West Side",
+    "lat": 41.8773847,
+    "lng": -87.6733653,
+    "mode": "shown",
+    "desc_note": ""
+  },
+  "The16thCTOColloquiumChicago": {
+    "venue": "",
+    "short_address": "",
+    "full_address": "",
+    "hood": "Chicago Loop",
+    "lat": 41.886182875110975,
+    "lng": -87.631335683903,
+    "mode": "obfuscated",
+    "desc_note": ""
+  },
+  "ac1b8c4s": {
+    "venue": "TeamWorking by TechNexus",
+    "short_address": "20 N Wacker Dr 12th Floor, Chicago",
+    "full_address": "TeamWorking by TechNexus, 20 N Wacker Dr 12th Floor, Chicago, IL 60606, USA",
+    "hood": "Chicago Loop",
+    "lat": 41.8826202,
+    "lng": -87.6372731,
+    "mode": "shown",
+    "desc_note": ""
+  },
+  "b19tbdm7": {
+    "venue": "",
+    "short_address": "",
+    "full_address": "",
+    "hood": "Chicago Loop",
+    "lat": 41.87738675772938,
+    "lng": -87.6275891242143,
+    "mode": "obfuscated",
+    "desc_note": ""
+  },
+  "b9a7bqgw": {
+    "venue": "MATTER",
+    "short_address": "222 W Merchandise Mart Plaza #228, Chicago",
+    "full_address": "MATTER, 222 W Merchandise Mart Plaza #228, Chicago, IL 60654, USA",
+    "hood": "River North",
+    "lat": 41.888409599999996,
+    "lng": -87.6354498,
+    "mode": "shown",
+    "desc_note": ""
+  },
+  "chi26q3": {
+    "venue": "Burns & McDonnell",
+    "short_address": "At&T Center, 200 W Adams St UNIT 2700, Chicago",
+    "full_address": "Burns & McDonnell, At&T Center, 200 W Adams St UNIT 2700, Chicago, IL 60606, USA",
+    "hood": "Chicago Loop",
+    "lat": 41.8797455,
+    "lng": -87.63414660000001,
+    "mode": "shown",
+    "desc_note": ""
+  },
+  "chi26q3-dinner": {
+    "venue": "Sunda New Asian - River North",
+    "short_address": "110 W Illinois St, Chicago",
+    "full_address": "Sunda New Asian - River North, 110 W Illinois St, Chicago, IL 60654, USA",
+    "hood": "River North",
+    "lat": 41.8909611,
+    "lng": -87.63175269999999,
+    "mode": "shown",
+    "desc_note": ""
+  },
+  "chicagopeopleleadersdinner-ihateithere": {
+    "venue": "",
+    "short_address": "",
+    "full_address": "",
+    "hood": "West Loop",
+    "lat": 41.883756464277404,
+    "lng": -87.6499158890028,
+    "mode": "obfuscated",
+    "desc_note": ""
+  },
+  "crhdlrvb": {
+    "venue": "Midwest Coast Brewing Company",
+    "short_address": "2137 W Walnut St, Chicago",
+    "full_address": "Midwest Coast Brewing Company, 2137 W Walnut St, Chicago, IL 60612, USA",
+    "hood": "Near West Side",
+    "lat": 41.8857183,
+    "lng": -87.6806352,
+    "mode": "shown",
+    "desc_note": ""
+  },
+  "e1d75gnn": {
+    "venue": "Fabrik Chicago",
+    "short_address": "440 N Wells St Suite 630, Chicago",
+    "full_address": "Fabrik Chicago, 440 N Wells St Suite 630, Chicago, IL 60654, USA",
+    "hood": "River North",
+    "lat": 41.890204999999995,
+    "lng": -87.6344556,
+    "mode": "shown",
+    "desc_note": ""
+  },
+  "fnfxchi0726": {
+    "venue": "",
+    "short_address": "",
+    "full_address": "",
+    "hood": "Near West Side",
+    "lat": 41.88454115732889,
+    "lng": -87.66674614261423,
+    "mode": "obfuscated",
+    "desc_note": ""
+  },
+  "founder-fest-chicago": {
+    "venue": "",
+    "short_address": "",
+    "full_address": "",
+    "hood": "Wicker Park",
+    "lat": 41.91103935533262,
+    "lng": -87.67634968685884,
+    "mode": "obfuscated",
+    "desc_note": ""
+  },
+  "g77hyv4c": {
+    "venue": "",
+    "short_address": "",
+    "full_address": "",
+    "hood": "River North",
+    "lat": 41.8925319039995,
+    "lng": -87.6405278306859,
+    "mode": "obfuscated",
+    "desc_note": ""
+  },
+  "h9wwy8fy": {
+    "venue": "",
+    "short_address": "",
+    "full_address": "",
+    "hood": "Streeterville",
+    "lat": 41.8916475689971,
+    "lng": -87.62028073300038,
+    "mode": "obfuscated",
+    "desc_note": ""
+  },
+  "hgcu6iig": {
+    "venue": "",
+    "short_address": "",
+    "full_address": "",
+    "hood": "Chicago Loop",
+    "lat": 41.87445544746414,
+    "lng": -87.63233717474544,
+    "mode": "obfuscated",
+    "desc_note": ""
+  },
+  "hkwr6pq5": {
+    "venue": "mHUB",
+    "short_address": "1623 W Fulton St, Chicago",
+    "full_address": "mHUB, 1623 W Fulton St, Chicago, IL 60612, USA",
+    "hood": "Near West Side",
+    "lat": 41.8866995,
+    "lng": -87.6676492,
+    "mode": "shown",
+    "desc_note": ""
+  },
+  "hyofk2s5": {
+    "venue": "",
+    "short_address": "",
+    "full_address": "",
+    "hood": "Chicago, IL",
+    "lat": 41.883267644716966,
+    "lng": -87.61156521870622,
+    "mode": "obfuscated",
+    "desc_note": ""
+  },
+  "l05itl91": {
+    "venue": "Workbox Chicago - River North",
+    "short_address": "306 W Erie St Ste 300, Chicago",
+    "full_address": "Workbox Chicago - River North, 306 W Erie St Ste 300, Chicago, IL 60654, USA",
+    "hood": "River North",
+    "lat": 41.8940748,
+    "lng": -87.63606419999999,
+    "mode": "shown",
+    "desc_note": "Using the callbox to the right of the front doors, select \"Directory\" then \"Workbox\" and a Workbox teammate will buzz you into the building. Please take the elevators to the 3rd floor."
+  },
+  "l1moh2o2": {
+    "venue": "2010 W Fulton St",
+    "short_address": "2010 W Fulton St, Chicago",
+    "full_address": "2010 W Fulton St, Chicago, IL 60612, USA",
+    "hood": "Near West Side",
+    "lat": 41.886908299999995,
+    "lng": -87.6779528,
+    "mode": "shown",
+    "desc_note": "Entrance at the Red Door, go up stairs to 2nd Floor."
+  },
+  "le8ovmpu": {
+    "venue": "Morningstar",
+    "short_address": "22 W Washington St #7, Chicago",
+    "full_address": "Morningstar, 22 W Washington St #7, Chicago, IL 60602, USA",
+    "hood": "Chicago Loop",
+    "lat": 41.8833297,
+    "lng": -87.62879070000001,
+    "mode": "shown",
+    "desc_note": ""
+  },
+  "mcni7220": {
+    "venue": "Impact House",
+    "short_address": "200 W Madison St, Chicago",
+    "full_address": "Impact House, 200 W Madison St, Chicago, IL 60606, USA",
+    "hood": "Chicago Loop",
+    "lat": 41.8822634,
+    "lng": -87.6344471,
+    "mode": "shown",
+    "desc_note": "Training Room"
+  },
+  "ou2zr549": {
+    "venue": "",
+    "short_address": "",
+    "full_address": "",
+    "hood": "Fulton Market District",
+    "lat": 41.88415990969591,
+    "lng": -87.6508862351979,
+    "mode": "obfuscated",
+    "desc_note": ""
+  },
+  "polsky-07-20-2026-event-1686": {
+    "venue": "Gleacher Conference Center",
+    "short_address": "450 Cityfront Plaza Dr, Chicago",
+    "full_address": "Gleacher Conference Center, 450 Cityfront Plaza Dr, Chicago, IL 60611, USA",
+    "hood": "Streeterville",
+    "lat": 41.8897122,
+    "lng": -87.6222842,
+    "mode": "shown",
+    "desc_note": "Room: 621"
+  },
+  "polsky-07-23-2026-event-1737": {
+    "venue": "Polsky Exchange North",
+    "short_address": "1452 E 53rd St, Chicago",
+    "full_address": "Polsky Exchange North, 1452 E 53rd St, Chicago, IL 60615, USA",
+    "hood": "Hyde Park",
+    "lat": 41.7998915,
+    "lng": -87.58957649999999,
+    "mode": "shown",
+    "desc_note": ""
+  },
+  "q3ead560": {
+    "venue": "TeamWorking by TechNexus",
+    "short_address": "20 N Wacker Dr 12th Floor, Chicago",
+    "full_address": "TeamWorking by TechNexus, 20 N Wacker Dr 12th Floor, Chicago, IL 60606, USA",
+    "hood": "Chicago Loop",
+    "lat": 41.8826202,
+    "lng": -87.6372731,
+    "mode": "shown",
+    "desc_note": "Enter the Civic Opera Building and take the elevator to the 12th floor. Our team will help point you in the right direction, and welcome check-in will be waiting for you upstairs. You can\u2019t miss it!"
+  },
+  "qwvogdy9": {
+    "venue": "Three Cities Social Club - River North",
+    "short_address": "320 W Ohio St #7E, Chicago",
+    "full_address": "Three Cities Social Club - River North, 320 W Ohio St #7E, Chicago, IL 60654, USA",
+    "hood": "River North",
+    "lat": 41.892543499999995,
+    "lng": -87.63675529999999,
+    "mode": "shown",
+    "desc_note": ""
+  },
+  "qz6cegc2": {
+    "venue": "Naperville Public Library - Nichols Library",
+    "short_address": "200 W Jefferson Ave, Naperville",
+    "full_address": "Naperville Public Library - Nichols Library, 200 W Jefferson Ave, Naperville, IL 60540, USA",
+    "hood": "Downtown",
+    "lat": 41.772304,
+    "lng": -88.1519347,
+    "mode": "shown",
+    "desc_note": "Community room downstairs."
+  },
+  "rzjegin7": {
+    "venue": "CC Fulton Market",
+    "short_address": "315 N Green St, Chicago",
+    "full_address": "CC Fulton Market, 315 N Green St, Chicago, IL 60607, USA",
+    "hood": "Fulton Market District",
+    "lat": 41.887272599999996,
+    "lng": -87.6485431,
+    "mode": "shown",
+    "desc_note": ""
+  },
+  "securingtomorrow-chicago": {
+    "venue": "Momotaro",
+    "short_address": "820 W Lake St, Chicago",
+    "full_address": "Momotaro, 820 W Lake St, Chicago, IL 60607, USA",
+    "hood": "Fulton Market District",
+    "lat": 41.885886,
+    "lng": -87.64845,
+    "mode": "shown",
+    "desc_note": ""
+  },
+  "tdoaww56": {
+    "venue": "Harry Caray's Italian Steakhouse",
+    "short_address": "33 W Kinzie St, Chicago",
+    "full_address": "Harry Caray's Italian Steakhouse, 33 W Kinzie St, Chicago, IL 60654, USA",
+    "hood": "Near North",
+    "lat": 41.889100899999995,
+    "lng": -87.6293401,
+    "mode": "shown",
+    "desc_note": ""
+  },
+  "umdzdpw1": {
+    "venue": "Midwest Coast Brewing Company",
+    "short_address": "2137 W Walnut St, Chicago",
+    "full_address": "Midwest Coast Brewing Company, 2137 W Walnut St, Chicago, IL 60612, USA",
+    "hood": "Near West Side",
+    "lat": 41.8857183,
+    "lng": -87.6806352,
+    "mode": "shown",
+    "desc_note": ""
+  },
+  "v2np2ue4": {
+    "venue": "Leica Store and Gallery Chicago",
+    "short_address": "800 N Michigan Ave, Chicago",
+    "full_address": "Leica Store and Gallery Chicago, 800 N Michigan Ave, Chicago, IL 60611, USA",
+    "hood": "Near North Side",
+    "lat": 41.897205899999996,
+    "lng": -87.6249333,
+    "mode": "shown",
+    "desc_note": ""
+  },
+  "vab52t5m": {
+    "venue": "West Loop Branch, Chicago Public Library",
+    "short_address": "122 N Aberdeen St, Chicago",
+    "full_address": "West Loop Branch, Chicago Public Library, 122 N Aberdeen St, Chicago, IL 60607, USA",
+    "hood": "West Loop",
+    "lat": 41.883799599999996,
+    "lng": -87.6547564,
+    "mode": "shown",
+    "desc_note": ""
+  },
+  "voxel51-4f3g": {
+    "venue": "10 S Riverside Plaza suite 800",
+    "short_address": "10 S Riverside Plaza suite 800, Chicago",
+    "full_address": "10 S Riverside Plaza suite 800, Chicago, IL 60606, USA",
+    "hood": "West Loop",
+    "lat": 41.881253799999996,
+    "lng": -87.6391108,
+    "mode": "shown",
+    "desc_note": ""
+  },
+  "vvhgzewy": {
+    "venue": "Fabrik Chicago",
+    "short_address": "440 N Wells St Suite 630, Chicago",
+    "full_address": "Fabrik Chicago, 440 N Wells St Suite 630, Chicago, IL 60654, USA",
+    "hood": "River North",
+    "lat": 41.890204999999995,
+    "lng": -87.6344556,
+    "mode": "shown",
+    "desc_note": ""
+  },
+  "vwpk2xq3": {
+    "venue": "70 W Madison St",
+    "short_address": "Three First National Plaza, 70 W Madison St, Chicago",
+    "full_address": "70 W Madison St, Chicago, IL 60602, USA",
+    "hood": "Chicago Loop",
+    "lat": 41.8823304,
+    "lng": -87.6301292,
+    "mode": "shown",
+    "desc_note": ""
+  },
+  "vy9r24a4": {
+    "venue": "",
+    "short_address": "",
+    "full_address": "",
+    "hood": "West Loop Gate",
+    "lat": 41.88388341160366,
+    "lng": -87.64064404122375,
+    "mode": "obfuscated",
+    "desc_note": ""
+  },
+  "vzwjygyc": {
+    "venue": "Weather Mark Tavern",
+    "short_address": "Weather Mark, 1503 S Michigan Ave, Chicago",
+    "full_address": "Weather Mark Tavern, 1503 S Michigan Ave, Chicago, IL 60605, USA",
+    "hood": "South Loop",
+    "lat": 41.8618972,
+    "lng": -87.623824,
+    "mode": "shown",
+    "desc_note": ""
+  },
+  "wdvb76av": {
+    "venue": "ReloShare",
+    "short_address": "1330 W Fulton St Ste 700, Chicago",
+    "full_address": "ReloShare, 1330 W Fulton St Ste 700, Chicago, IL 60607, USA",
+    "hood": "Fulton Market District",
+    "lat": 41.8869882,
+    "lng": -87.6602705,
+    "mode": "shown",
+    "desc_note": ""
+  },
+  "wlci6n0y": {
+    "venue": "Three Cities Social Club - River North",
+    "short_address": "320 W Ohio St #7E, Chicago",
+    "full_address": "Three Cities Social Club - River North, 320 W Ohio St #7E, Chicago, IL 60654, USA",
+    "hood": "River North",
+    "lat": 41.892543499999995,
+    "lng": -87.63675529999999,
+    "mode": "shown",
+    "desc_note": ""
+  },
+  "wrts6agi": {
+    "venue": "Hoste",
+    "short_address": "1857 W 16th St, Chicago",
+    "full_address": "Hoste, 1857 W 16th St, Chicago, IL 60608, USA",
+    "hood": "Heart of Chicago",
+    "lat": 41.859431,
+    "lng": -87.67291709999999,
+    "mode": "shown",
+    "desc_note": ""
+  },
+  "wxgxbsko": {
+    "venue": "Polsky Exchange North",
+    "short_address": "1452 E 53rd St, Chicago",
+    "full_address": "Polsky Exchange North, 1452 E 53rd St, Chicago, IL 60615, USA",
+    "hood": "Hyde Park",
+    "lat": 41.7998915,
+    "lng": -87.58957649999999,
+    "mode": "shown",
+    "desc_note": ""
+  },
+  "you-6t43": {
+    "venue": "54 W Chicago Ave",
+    "short_address": "54 W Chicago Ave, Chicago",
+    "full_address": "54 W Chicago Ave, Chicago, IL 60654, USA",
+    "hood": "Rush & Division",
+    "lat": 41.896949199999995,
+    "lng": -87.6303992,
+    "mode": "shown",
+    "desc_note": "Alliance Fran\u00e7aise de Chicago - The event entrance is located at 54 W Chicago Ave Chicago IL 60654 and presentations will take place in the auditorium."
+  },
+  "z2i2qp74": {
+    "venue": "TeamWorking by TechNexus",
+    "short_address": "20 N Wacker Dr 12th Floor, Chicago",
+    "full_address": "TeamWorking by TechNexus, 20 N Wacker Dr 12th Floor, Chicago, IL 60606, USA",
+    "hood": "Chicago Loop",
+    "lat": 41.8826202,
+    "lng": -87.6372731,
+    "mode": "shown",
+    "desc_note": ""
+  },
+  "zbe7g6nt": {
+    "venue": "",
+    "short_address": "",
+    "full_address": "",
+    "hood": "Fulton Market District",
+    "lat": 41.88324661541428,
+    "lng": -87.65446144245271,
+    "mode": "obfuscated",
+    "desc_note": ""
+  }
+}
